@@ -1,6 +1,8 @@
 {
     "version": 2,
     "framework": null,
+    "buildCommand": "bash build.sh",
+    "installCommand": "echo 'Installing via build.sh...'",
     "functions": {
         "api/index.php": {
             "runtime": "vercel-php@0.7.5",

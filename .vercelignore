@@ -4,4 +4,3 @@
 /storage/framework/sessions/*
 /storage/logs/*
 /node_modules
-/public/build
