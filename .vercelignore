@@ -1,0 +1,7 @@
+/bootstrap/cache/*.php
+/storage/framework/cache/*
+/storage/framework/views/*.php
+/storage/framework/sessions/*
+/storage/logs/*
+/node_modules
+/public/build
